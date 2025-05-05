@@ -1,2 +1,1 @@
-# helthcare-app
-LLM-based helthcare application
+# LLM-based helthcare-app
